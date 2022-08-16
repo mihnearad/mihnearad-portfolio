@@ -12,7 +12,7 @@
       "behance": "https://behance.com",
       "github": "https://github.com/mihnearadulescu",
       "twitter": "https://twitter.com/mihnea_rad",
-      "linkedin": "https://www.linkedin.com/in/mihnearad/",
+      "linkedin": "https://www.linkedin.com/in/mihnearadulescu/",
       "mail": "mailto:hi@mihnearad.com"
     }
   },
@@ -37,7 +37,7 @@
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }

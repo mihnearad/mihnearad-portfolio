@@ -9,16 +9,12 @@
       "image": {
         "src": "../../images/homelab.png",
         "alt": "HomeLab",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://mihnearad.com/homelab-setup"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://https://mihnearad.com/homelab-setup"
+          "url": "https://mihnearad.com/homelab-setup"
         }
       ]
     },
