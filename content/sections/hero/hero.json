@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hello",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/mihnea-round.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Mihnea",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I do  ",
+    "highlight": "IT stuff",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Welcome to my portfolio / blog",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Twitter", "Github", "Mail"],
     "showIcons": false
   }
 }
