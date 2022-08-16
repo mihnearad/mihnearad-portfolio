@@ -2,13 +2,13 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🧪 HomeLab",
+      "title": "HomeLab Setup",
+      "description": "The very essence of any IT's professional - the HomeLab. Mine is quite young at this stage, but it has taught me many things already. Few mis-haps here and there but nothing that can't be backed up.",
+      "tags": ["Networking", "Virtualisation"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "src": "../../images/homelab.png",
+        "alt": "HomeLab",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },
       "links": [
@@ -18,31 +18,31 @@
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://https://mihnearad.com/homelab-setup"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "😄 For Fun",
+      "title": "Rate your Coffee!",
+      "description": "My first website! I've developed this after following some quick tutorials one afternoon as I wanted to improve my espresso quality. So I've designed this to gather data on it. ",
+      "tags": ["Database", "Coffee"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/cofffe.jpeg",
+        "alt": "Coffee"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/mihnearad/CoffeeProject"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit my Github",
+    "url": "https://github.com/mihnearad"
   }
 }

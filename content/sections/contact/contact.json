@@ -1,10 +1,10 @@
 {
   "name": "Mihnea Radulescu",
   "email": "hi@mihnearad.com",
-  "description": "If you have any questions about my work, please send me an email.  ß",
+  "description": "If you have any questions about my work, please send me an email or tweet @ me. ",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/address-card-solid.png",
+    "alt": "address card"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
