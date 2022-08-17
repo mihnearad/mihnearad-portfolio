@@ -3,7 +3,7 @@ imageSrc: "../../images/working2.png"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-If not already clear enough, I'm Mihnea, a SysAdmin/Project Manager based in Romania working remotely around the globe. I enjoy technology, gadgets and I spend my time tinkering with my homelab. This very website is a result of me trying not to procrastinate. 
+I'm a SysAdmin/Project Manager based in Romania working remotely around the globe. I love working technology and I've been doing that my whole life. I spend most of my time tinkering with my homelab, finding open source software as well as enjoy a good movie here and there. This very website is a result of me trying something new.
 
 Currently pursuing a CyberSecurity career path, learning Python, Networking and playing with HackTheBox from time to time. 
 
