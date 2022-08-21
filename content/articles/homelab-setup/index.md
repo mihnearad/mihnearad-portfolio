@@ -75,7 +75,7 @@ Now that we have the hardware out of the way, we can discuss each piece of softw
 
 1. **Docker Container** - holds Dashy on it to display a local Dashboard for the Homelab
 2. **Guacamole** - browser RDP connection client for my machines. Not used very often but I liked the idea
-3. **CoffeeProject** - this project over here
+3. **CoffeeProject** - this project [here](https://github.com/mihnearad/CoffeeProject)
 4. **OpenMediaVault** - OS for my NAS with the following containers on it
     * *Sabnz* - usenet download client
     * *Sonarr* - used for downloading TV series
