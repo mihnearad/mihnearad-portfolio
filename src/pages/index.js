@@ -8,6 +8,8 @@ import {
   Page,
   ProjectsSection,
   Seo,
+  Section,
+  Animation
 } from "gatsby-theme-portfolio-minimal";
 
 export default function IndexPage() {
